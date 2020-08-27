@@ -24,3 +24,15 @@ a:hover {
 .treat {
     border: 1px gray solid;
 }
+.newsletter-signup {
+color: #333;
+font-size: 15px;
+line-height: 20px;
+box-sizing: border-box;
+max-width: 300px;
+margin: 10px auto 30px;
+border: 1px solid #e5e5e5;
+background-color: #f4f5f6;
+padding: 20px;
+}
+
