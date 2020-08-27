@@ -1,4 +1,5 @@
 # Newsweek
+Practice on using Bootsrap by recreating Newsweek.com website 
 
 # Built With
 - HTML
