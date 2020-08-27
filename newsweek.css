@@ -10,3 +10,17 @@ nav.top {
     font-size: 13px;
 }
 
+i {
+    font-style: normal;
+    color: gray;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+.treat {
+    border: 1px gray solid;
+}
