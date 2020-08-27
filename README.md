@@ -5,4 +5,4 @@
 - CSS
 
 #Live Demo
-https://htmlpreview.github.io/?
+https://htmlpreview.github.io/?https://github.com/MsMutinda/Newsweek/blob/master/newsweek.html
