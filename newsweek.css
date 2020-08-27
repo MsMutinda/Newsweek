@@ -1,0 +1,12 @@
+nav.top {
+    height: 100px;
+}
+
+.button {
+    color: white;
+    position: relative;
+    left: 1050px;
+    bottom: 170px;
+    font-size: 13px;
+}
+
